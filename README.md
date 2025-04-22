@@ -49,7 +49,7 @@ ROC Curve (optional)
 ## License
 This project is open-source and available under the MIT License.
 
-🙌 Acknowledgments
+## Acknowledgments
 GloVe: https://nlp.stanford.edu/projects/glove/
 
 NLTK & SpaCy libraries
